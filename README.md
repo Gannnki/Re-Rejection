@@ -1,5 +1,4 @@
 # Re-Rejection
-# Re-Rejection
 
 **Every rejection, logged and looked after.**
 **每一封拒信，都被记录，也被好好安放。**
