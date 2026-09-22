@@ -1,11 +1,12 @@
-# Re — MVP Spec
+# Re-Rejection — MVP Spec
 
 ## 1. Overview
 
-**Re** is a personal tracker for job seekers who receive rejection letters or
-emails. Instead of letting each rejection disappear into an inbox, users log
-it — by uploading a screenshot, pasting the message text, or typing it in
-manually — and Re keeps a running record. The MVP goal is threefold: make
+**Re-Rejection** is a personal tracker for job seekers who receive rejection
+letters or emails. Instead of letting each rejection disappear into an
+inbox, users log it — by uploading a screenshot, pasting the message text,
+or typing it in manually — and Re-Rejection keeps a running record. The MVP
+goal is threefold: make
 logging a rejection effortless, show the user a simple dashboard of how many
 companies have turned them down, and offer a small dose of emotional support
 along the way so the process feels less isolating.
